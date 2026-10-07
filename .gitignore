@@ -1,0 +1,4 @@
+producoes/
+__pycache__/
+*.pyc
+.env

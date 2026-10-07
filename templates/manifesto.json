@@ -1,0 +1,48 @@
+{
+  "versao": 1,
+  "imovel": {
+    "url": "",
+    "titulo": "",
+    "caracteristicas": {},
+    "area_tipo": ""
+  },
+  "fornecedor": {
+    "nome": "Higgsfield",
+    "modelo_imagem": "",
+    "modelo_video": ""
+  },
+  "modo": "passeio",
+  "ambientes": [],
+  "takes": [],
+  "ordem_takes": [],
+  "musica": null,
+  "musica_licenca": null,
+  "saida": "final/video.mp4",
+  "revisao_final": {
+    "estado": "pendente",
+    "observacoes": ""
+  },
+  "estrutura_ambiente": {
+    "id": "sala",
+    "nome": "Sala",
+    "url_original": "",
+    "original": "originais/sala.jpg",
+    "marcos": [],
+    "ajustes": [],
+    "vertical": "verticais/sala.png",
+    "prompt_imagem": "",
+    "job_imagem": null,
+    "revisao": "pendente"
+  },
+  "estrutura_take": {
+    "id": "sala-pov",
+    "ambiente_id": "sala",
+    "tipo": "pov",
+    "arquivo": "takes/sala-pov.mp4",
+    "prompt": "",
+    "job_id": null,
+    "estado": "pendente",
+    "tentativas": 0,
+    "erro": null
+  }
+}
